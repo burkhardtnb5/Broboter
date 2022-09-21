@@ -1,4 +1,4 @@
-Ketten:
-Brushless Motoren:
-Ultraschall Sensoren:
+Ketten:                   2 
+Brushless Motoren:        2
+Ultraschall Sensoren:     1-4
 Gehäuse
