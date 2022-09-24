@@ -3,6 +3,9 @@ Brushless Motoren:        2
 Ultraschall Sensoren:     1-4
 Gehäuse
 
+Kettenantrieb bausatz mit Motoren, Ketten, Getriebe, "Kettenaufhängung" oder wie auch immer das heißt: 
+https://www.amazon.de/XiaoR-GEEK-2WD-Motoren-ferngesteuertes-Roboterauto/dp/B09C7TK9Y9/
+oder: https://www.amazon.de/DFRobot-Devastator-Tank-Mobile-Platform/dp/B014L1CF1K/
 
 https://www.ebay-kleinanzeigen.de/s-anzeige/2-alte-bohrmaschinen-geprueft/2216108336-84-7166
 https://www.ebay-kleinanzeigen.de/s-anzeige/zwei-alte-bohrmaschinen-aeg/2211270608-240-8650
