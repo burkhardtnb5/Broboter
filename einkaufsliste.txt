@@ -12,3 +12,18 @@ https://drive.google.com/drive/folders/1AiicgyjlS-KWhi7NfhnoCsdB6uxxlqcq        
 https://www.thingiverse.com/thing:3703555                                            Bauteile zum runterlade
 https://www.thingiverse.com/thing:4932310                                            Kettenteile
 https://wired.chillibasket.com/wp-content/uploads/2019/06/Wall-E-List-of-Parts.pdf   teilliste
+
+
+Motoren Daten:
+Zahnrad Durchmesser: 11mm (innen 7mm)
+11 Zacken (Hole und Zacke gegenüber) 
+Zahnprofil: 2mm
+Außendurchmesser: 38mm
+länge ohne Zahnrad und Hallsensor: 57mm
+Länge mit Zahnrad und ohne Hallsensor: 73mm
+Zahnraddicke: 7mm
+Hallsensordicke: 9mm
+Hallsensor: 17mm
+Schraubenabstand (vorne am Zahnrad: 27mm)
+Schraubenabstand vom außendurchmesser: 6mm
+Schrauben: m2 oder m3 gewinde
