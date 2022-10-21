@@ -15,6 +15,10 @@ https://wired.chillibasket.com/wp-content/uploads/2019/06/Wall-E-List-of-Parts.p
 
 
 Motoren Daten:
+Anlaufstrom bei 12v PRO MOTOR: >> 10A für die 1. Sekunde; 5-10A für die 2.Sekunde
+Leerlaufstrom pro Motor: 2-3A
+Vermuteter Strom unter Vollast > 10A pro Motor
+
 Zahnrad Durchmesser: 11mm (innen 7mm)
 11 Zacken (Hole und Zacke gegenüber) 
 Zahnprofil: 2mm
